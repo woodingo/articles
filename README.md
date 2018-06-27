@@ -1,2 +1,2 @@
 # Статьи
-[Ant Design](./ant-desing/ant-desing.md)
+[Ant Design](/ant-design/ant-design.md)
